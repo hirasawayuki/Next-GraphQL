@@ -1,0 +1,32 @@
+# project-frontend
+/project-frontend/node_modules
+/project-frontend/.pnp
+/project-frontend/.pnp.js
+/project-frontend/coverage
+/project-frontend/.next/
+/project-frontend/out/
+/project-frontend/build
+/project-frontend/.DS_Store
+/project-frontend/*.pem
+/project-frontend/npm-debug.log*
+/project-frontend/yarn-debug.log*
+/project-frontend/yarn-error.log*
+/project-frontend/.env.local
+/project-frontend/.env.development.local
+/project-frontend/.env.test.local
+/project-frontend/.env.production.local
+/project-frontend/.vercel
+
+# project-backend
+/project-backend/.bundle
+/project-backend/log/*
+/project-backend/tmp/*
+!/project-backend/log/.keep
+!/project-backend/tmp/.keep
+/project-backend/tmp/pids/*
+!/project-backend/tmp/pids/
+!/project-backend/tmp/pids/.keep
+/project-backend/storage/*
+!/project-backend/storage/.keep
+/project-backend/.byebug_history
+/project-backend/config/master.key
