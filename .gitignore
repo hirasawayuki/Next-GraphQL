@@ -1,3 +1,5 @@
+.env
+
 # project-frontend
 /project-frontend/node_modules
 /project-frontend/.pnp
