@@ -18,6 +18,7 @@
 /project-frontend/.vercel
 
 # project-backend
+/project-backend/vendor/bundle
 /project-backend/.bundle
 /project-backend/log/*
 /project-backend/tmp/*
